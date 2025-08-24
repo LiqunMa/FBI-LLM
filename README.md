@@ -69,13 +69,10 @@ We use [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harne
 ## Citation
 If you find our work useful and helpful to your research, please consider citing this paper:
 ```
-@misc{ma2024fbillmscalingfullybinarized,
-      title={FBI-LLM: Scaling Up Fully Binarized LLMs from Scratch via Autoregressive Distillation}, 
-      author={Liqun Ma and Mingjie Sun and Zhiqiang Shen},
-      year={2024},
-      eprint={2407.07093},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2407.07093}, 
+@article{ma2024fbi,
+  title={Fbi-llm: Scaling up fully binarized llms from scratch via autoregressive distillation},
+  author={Ma, Liqun and Sun, Mingjie and Shen, Zhiqiang},
+  journal={arXiv preprint arXiv:2407.07093},
+  year={2024}
 }
 ```
